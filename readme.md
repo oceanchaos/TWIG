@@ -12,9 +12,8 @@ The Julia script requires the ParametricModels package, which you can acquire fr
 ## Example
 
 Imagine you wish to analyze the subcritical pitchfork bifurcation definied by
-$$
-\dot{y} = r y - y^3 + \alpha_1 y^4 + \alpha_2 y^5 + ...
-$$
+
+$\dot{y} = r y - y^3 + \alpha_1 y^4 + \alpha_2 y^5 + ...$
 
 which we know has a bifurcation when all parameters are zero, or $r=\alpha_i=0$. 
 
